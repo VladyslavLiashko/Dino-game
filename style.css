@@ -22,6 +22,11 @@
     left: 580px;
     animation: cactusmov 2s infinite linear;
 }
+.score{
+    margin-left: 30%;
+    font-size: 20px;
+    font-family: 'Press Start 2P', cursive;
+}
 @keyframes cactusmov {
     0%{
         left: 580px;
@@ -41,7 +46,7 @@
         top: 130px;
     }
     50% {
-        top: 80px;
+        top: 30px;
     }
     80% {
         top: 130px;
